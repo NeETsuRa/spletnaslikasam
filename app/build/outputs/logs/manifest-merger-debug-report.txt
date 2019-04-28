@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:3:5-22
+		INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:7:5-19:19
+	android:label
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:8:9-45
+activity#nejc.ra.SpletnaslikasamActivity
+ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:11:13-45
+	android:name
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:12:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+		ADDED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development Proeckts\spletnaslikasam\app\src\main\AndroidManifest.xml

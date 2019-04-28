@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Development Proeckts\\spletnaslikasam\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Development Proeckts\\spletnaslikasam\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "132,59",
+                        "endColumns": "52,71",
+                        "endOffsets": "180,126"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,71",
+                        "endOffsets": "103,175"
+                    }
+                }
+            ]
+        }
+    ]
+}
